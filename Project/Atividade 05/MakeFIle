@@ -1,0 +1,6 @@
+run:
+	g++ -Wall -Wextra -o main main.cpp ATIVIDADE05.cpp
+	@printf -------------------\n
+	@./main
+	@printf -------------------\n
+	@rm -f ./main
